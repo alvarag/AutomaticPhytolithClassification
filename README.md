@@ -4,7 +4,7 @@ This software can be used for extracting morphological and geometric features fr
 The code is divided into two Jupyter Notebooks:
 
 - ```Exploration_DataGeneration.ipynb```: Generates the dataset from phytoliths images and their masks.
-- ```a```: 
+- ```Perform_Experiments.ipynb```: Performs the experimentation with the dataset created by the previous notebook.
 
 
 ## Authors
