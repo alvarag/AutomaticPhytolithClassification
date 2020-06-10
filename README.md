@@ -1,5 +1,9 @@
 # Automatic phytolith classification by means of feature extraction and several classifiers
-This software can be used for extracting morphological and geometric features from phytoliths images.
+This software can be used for extracting features from phytoliths images. Two kind of features are extracted:
+
+- Morphological and geometric.
+- Elliptic Fourier descriptors (EFD).
+
 
 The code is divided into two Jupyter Notebooks:
 
@@ -16,7 +20,7 @@ The code is divided into two Jupyter Notebooks:
 
 
 ## Citation policy
-The code was implemented by Jose-Francisco Diez-Pastor.
+The code was implemented by Jose-Francisco Díez-Pastor.
 
 ### Cite this software as:
 (under review process)
