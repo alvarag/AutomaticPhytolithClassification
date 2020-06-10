@@ -23,5 +23,5 @@ The code was implemented by Jose-Francisco Diez-Pastor.
 
 
 ## Phytoliths images
-The images are in the [repository of the Pompeu Fabra University](https://guiesbibtic.upf.edu/data/es/datos-rep).
+The images are in the [repository of the Pompeu Fabra University](https://repositori.upf.edu/handle/10230/44939).
 
